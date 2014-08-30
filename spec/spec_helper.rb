@@ -1,7 +1,7 @@
 require 'codeclimate-test-reporter'
 CodeClimate::TestReporter.start
 require 'pry'
-require 'Pon'
+require 'pon'
 require 'rails/all'
 require 'rspec/rails'
 
