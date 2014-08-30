@@ -1,8 +1,7 @@
 require 'spec_helper'
 
 describe Pon do
-  it 'does stuff' do
-    skip 'write some tests yo!'
-    expect(true).to_be true
+  it 'write some tests yo!' do
+    expect(Pon.cc_m).to be true
   end
 end

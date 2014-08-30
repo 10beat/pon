@@ -1,5 +1,9 @@
 require 'pon/version'
 
 module Pon
-  # Your code goes here...
+  class << self
+    def cc_m
+      true
+    end
+  end
 end
