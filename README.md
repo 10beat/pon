@@ -1,4 +1,4 @@
-# Pon
+# Pon [![Code Climate](https://codeclimate.com/github/10beat/pon/badges/gpa.svg)](https://codeclimate.com/github/10beat/pon)
 
 A Rails Workflow Engine using the Stonepath methodology.
 
