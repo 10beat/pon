@@ -1,4 +1,4 @@
-require "pon/version"
+require 'pon/version'
 
 module Pon
   # Your code goes here...

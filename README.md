@@ -1,6 +1,6 @@
 # Pon
 
-TODO: Write a gem description
+A Rails Workflow Engine using the Stonepath methodology.
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+### TL;DR
 
 ## Contributing
 

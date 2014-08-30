@@ -1,0 +1,9 @@
+Metrics/LineLength:
+  Exclude:
+    - Guardfile
+Style/Documentation:
+  Enabled: false
+Style/RegexpLiteral:
+  Exclude:
+    - Guardfile
+    - pon.gemspec
