@@ -6,4 +6,4 @@ cache:
   bundler: true
 rvm:
   - ruby-2.1.1
-script: .travis-test
+script: './run-tests.sh'
