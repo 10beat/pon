@@ -82,7 +82,7 @@ header h1 {
 
 header h2 {
   font-size: 26px;
-  color: #fff;
+  color: #888;
   font-weight: normal;
   line-height: 1.3;
   width: 540px;
@@ -109,6 +109,13 @@ header h2 {
   max-width: 100%;
 }
 
+/*#main-content a.logo {
+  left:0;
+  background: transparent url(../images/10beatLogo.png) 0 0 no-repeat;
+  width:320px;
+  height:132px;
+}
+*/
 aside#sidebar {
   width: 200px;
   padding-left: 20px;
@@ -147,13 +154,6 @@ header a.button {
   right: 0;
   top: 0;
   background: transparent url(../images/github-button.png) 0 0 no-repeat;
-}
-header a.logo {
-  position:absolute;
-  right:0;
-  background: transparent url(../images/10beatLogo.png) 0 0 no-repeat;
-  width:320px;
-  height:132px;
 }
 aside a.button {
   width: 138px;
@@ -240,7 +240,7 @@ form {
 
 #main-content h1:before {
   content: "/";
-  color: #fff;
+  color: #888;
   padding-right: 0.3em;
   margin-left: -0.9em;
 }
@@ -254,7 +254,7 @@ form {
 }
 #main-content h2:before {
   content: "//";
-  color: #fff;
+  color: #888;
   padding-right: 0.3em;
   margin-left: -1.5em;
 }
@@ -270,7 +270,7 @@ form {
 
 #main-content h3:before {
   content: "///";
-  color: #fff;
+  color: #888;
   padding-right: 0.3em;
   margin-left: -2em;
 }
@@ -284,7 +284,7 @@ form {
 
 h4:before {
   content: "////";
-  color: #fff;
+  color: #888;
   padding-right: 0.3em;
   margin-left: -2.8em;
 }
@@ -296,7 +296,7 @@ h4:before {
 }
 h5:before {
   content: "/////";
-  color: #fff;
+  color: #888;
   padding-right: 0.3em;
   margin-left: -3.2em;
 }
@@ -308,7 +308,7 @@ h5:before {
 }
 h6:before {
   content: "//////";
-  color: #fff;
+  color: #888;
   padding-right: 0.3em;
   margin-left: -3.7em;
 }
@@ -442,7 +442,7 @@ footer a:hover {
     text-align: center;
     font-size: 13px;
     line-height: 1;
-    background-color: #fff;
+    background-color: #888;
     color: #2879d0;
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
